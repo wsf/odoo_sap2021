@@ -1,0 +1,18 @@
+osboxes@osboxes:~/PycharmProjects$ git log
+commit 46a3bae28fc9d3dc4b9bfddb2c302198c9efe2fa (HEAD -> main)
+Author: osboxes.org <alejandro.sartorio@gmail.com>
+Date:   Wed Jun 9 15:09:50 2021 -0400
+
+    ffa
+
+commit a8a796ad8a140ad7d0534d1c236ce9e6c2f4bfc6
+Author: osboxes.org <alejandro.sartorio@gmail.com>
+Date:   Tue Jun 8 15:12:00 2021 -0400
+
+    .gitignore
+
+commit f477b1a43b5f1ed303eb0b106fa714c4c0eca174
+Author: osboxes.org <alejandro.sartorio@gmail.com>
+Date:   Tue Jun 8 14:19:45 2021 -0400
+
+    first commit
